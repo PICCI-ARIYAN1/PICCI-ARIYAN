@@ -1,1 +1,3 @@
 # PICCI-ARIYAN
+cd BD-CRACK
+
